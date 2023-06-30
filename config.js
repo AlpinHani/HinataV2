@@ -58,10 +58,10 @@ global.openaikey = "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"
 global.ameapikey = "1f98ec7e4842d057d7551722f83e9ae5c59896856aa3f96d406ff8fc9185752062920fadf1df1ea71c332d3f6be2dd6fa62b7ac3d0140e40d86ba0e736135820"
 
 /*Number*/
-global.nomorbot = "6285171216276"
-global.nomorown = "6282195322106"
+global.nomorbot = "84876459724"
+global.nomorown = "6282287750102"
 global.namebot = " ʜɪɴᴀᴛᴀ-ʙᴏᴛ あ⁩ "
-global.nameown = "「 𝐖𝐮𝐝𝐲𝐒𝐨𝐟𝐭 」"
+global.nameown = "「 Alpin 」"
 
 /* Random */
 global.pmenus = pickRandom(["乂", "◈", "➭", "ଓ", "⟆•", "⳻", "•", "↬", "◈", "⭑", "ᯬ", "◉", "᭻", "»", "〆", "々", "⛥", "✗", "⚜", "⚚", "♪"])
